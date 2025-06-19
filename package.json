@@ -1,0 +1,15 @@
+{
+  "name": "cssa-backend",
+  "version": "1.0.0",
+  "description": "CSSA Backend API for Notion Integration",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel"
+  },
+  "dependencies": {
+    "@notionhq/client": "^2.2.3"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
